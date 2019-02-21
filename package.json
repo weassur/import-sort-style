@@ -1,6 +1,6 @@
 {
   "name": "@weassur/import-sort-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An import-sort style for WeAssur",
   "main": "lib/index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": ["react", "eslint", "vscode"],
   "author": "",
   "license": "ISC",
   "dependencies": {
